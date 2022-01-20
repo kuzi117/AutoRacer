@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - Wall
+  - Road
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Barriers
+  - Water
+  - UI
+  - Markers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Markers
+    uniqueID: 4242963369
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Barriers
+    uniqueID: 2806313265
+    locked: 0
